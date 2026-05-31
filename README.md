@@ -1,17 +1,22 @@
 # mxs-strada-lightweighting
 
 ## Structural Optimization & Lightweighting of the AiM Strada Digital Display Housing 
-### Parametric Modeling & Material Optimization
+### Parametric Modeling & Material Substitution Study
 
-### 📌 Engineering Brief & Objective
-This project focuses on the structural optimization and weight reduction of a high-performance motorsport telemetry enclosure (AiM Strada). The objective is to transition the housing from legacy manufacturing constraints to an optimized, advanced polymer structure capable of withstanding high-vibration automotive environments while substituting the material for maximum efficiency.
+### 📌 Project Overview
+This repository hosts the engineering framework, geometric methodology, and material optimization analysis for transitioning a high-performance motorsport telemetry enclosure (AiM Strada) from legacy manufacturing constraints to an optimized, advanced polymer structure.
 
-### 🛠️ Technical Stack & Methodologies
-*   **CAD Platform:** CATIA V5/V6 (Parametric Solid Modeling)
-*   **Engineering Principles:** Geometric Dimensioning & Tolerancing (GD&T), Rib/Grid Reinforcement Architecture, Draft Angle Analysis for Injection Molding.
-*   **Target Metrics:** Structural rigidity maintenance under a simulated vibration profile, targeted reduction in overall housing weight.
+### 📁 Repository Architecture & Documentation Links
+To navigate the technical depth of this project, explore the dedicated documentation modules below:
 
-### 📅 Development Roadmap
-*   [x] **Phase 1: Reverse Engineering & Boundary Condition Mapping** 
-*   [x] **Phase 2: Parametric Wall-Thickness & Rib Optimization** (Current)
-*   [ ] **Phase 3: Finite Element Analysis (FEA) Verification & Draft Finalization**
+1. 📂 **[Engineering Specifications & Baseline Data](/documentation/engineering_specs.md)**
+   * Detailed breakdown of the original reference model, custom dummy PCB integration, and material candidate metrics.
+2. 📂 **[Design Methodology & Process Validation](/documentation/design_methodology.md)**
+   * Insight into CATIA V5 parametric modeling rules, GD&T application, and rib/grid geometric optimization.
+3. 📂 **[Visual Assets & Geometric Renderings](/visuals/README.md)**
+   * High-resolution CAD specification trees, feature tracking, and side-by-side comparative layout captures.
+
+---
+### 📅 Current Phase: Phase 2 (Parametric Wall-Thickness & Rib Optimization)
+### 🔒 Data Security Notice
+*To protect proprietary manufacturing parameters and the upcoming research draft, raw `.CATPart` and `.stp` geometric source files are withheld. Public files focus strictly on engineering methodology and comparative performance metrics.*
